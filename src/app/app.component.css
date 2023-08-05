@@ -1,0 +1,14 @@
+.my-grid  {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.k-input {
+  background-color: white;
+  color: black;
+  border-color: #030303 !important;
+  border: 'thick'
+}
+
+
